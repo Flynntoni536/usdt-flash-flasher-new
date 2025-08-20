@@ -174,3 +174,14 @@
 ⭐ Star this repository if you find this tool useful!
 
 </div>
+
+keywords:
+  - "usdt flash"
+  - "usdt transactions"
+  - "multi-chain usdt"
+  - "ethereum usdt"
+  - "tron usdt"
+  - "bnb chain usdt"
+  - "polygon usdt"
+  - "crypto toolkit"
+  - "blockchain transactions"
